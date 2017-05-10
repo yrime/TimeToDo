@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/vsesh/ymaps-android-webview" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yrime/Its__Time.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\rodionov.feliks\AndroidStudioProjects" />
